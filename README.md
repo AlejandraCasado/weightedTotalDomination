@@ -1,1 +1,1 @@
-# weightedTotalDomination
+# Weighted Total Domination Problem

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WTDP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WTDP_jar</output-path>
+    <root id="archive" name="WTDP.jar">
+      <element id="module-output" name="WTDP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/GrafoOptiLibV2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
